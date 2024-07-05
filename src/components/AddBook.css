@@ -1,0 +1,21 @@
+.add-book-form {
+  padding: 20px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.add-book-form input {
+  display: block;
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 10px;
+  border: 3px solid grey;
+  border-radius: 10px;
+}
+
+.add-book-form button {
+  padding: 10px 20px;
+  background-color: rgb(34, 34, 154);
+  color: lightblue;
+  border: none;
+}

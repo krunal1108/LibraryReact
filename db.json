@@ -1,0 +1,18 @@
+{
+  "books": [
+    {
+      "id": "93fb",
+      "title": "Satya na prayogo",
+      "author": "satyaprakash",
+      "genre": "biography",
+      "year": "1991"
+    },
+    {
+      "id": "4d4d",
+      "title": "Ramayan",
+      "author": "Valmiki Rushi",
+      "genre": "Religion",
+      "year": "-42"
+    }
+  ]
+}
